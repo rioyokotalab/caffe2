@@ -1,6 +1,6 @@
 #include "caffe2/operators/conv_op_cache_cudnn.h"
 
-#include "/home/hiroki11/env/local/cuda/include/cudnn.h"
+#include <cudnn.h>
 
 #include "caffe2/core/logging.h"
 #include "caffe2/core/tensor.h"
