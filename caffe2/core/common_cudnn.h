@@ -4,7 +4,7 @@
 #include <array>
 #include <mutex>
 
-#include "/home/hiroki11/env/local/cuda/include/cudnn.h"
+#include <cudnn.h>
 
 #include "caffe2/core/common.h"
 #include "caffe2/core/common_gpu.h"
