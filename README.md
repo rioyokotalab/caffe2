@@ -1,4 +1,4 @@
-# Caffe2 extendex Rio Yokota Research group
+# Caffe2 extended Rio Yokota Research group
 
 [![TravisCI Build Status](https://travis-ci.org/caffe2/caffe2.svg?branch=master)](https://travis-ci.org/caffe2/caffe2)
 [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/github/caffe2/caffe2?svg=true)](https://ci.appveyor.com/project/Yangqing/caffe2)
