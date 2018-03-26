@@ -11,7 +11,7 @@ namespace caffe2 {
 class StoreHandler {
  public:
   static constexpr std::chrono::milliseconds kDefaultTimeout =
-      std::chrono::seconds(30);
+      std::chrono::seconds(180);
   static constexpr std::chrono::milliseconds kNoTimeout =
       std::chrono::milliseconds::zero();
 
